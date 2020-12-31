@@ -1,0 +1,1355 @@
+CPU count		: 6
+I found the following scenery packages (prioritized in this order):
+  0 demo meshes/
+  1 900 world terrain/
+  2 Mobile_Autogen_Lib/
+  3 apt_pavement_mobile/
+  4 Mobile_decals/
+  5 sim objects/
+  6 KSEA Mobile/
+  7 LOWI Mobile/
+  8 PHNL Mobile/
+  9 PAJN Mobile/
+ 10 KGCN Mobile/
+ 11 Mobile_beaches/
+ 12 default apt dat/
+ 13 military/
+ 14 v10MobileScenery_Alaska/
+ 15 v10MobileScenery_Grand_Canyon/
+ 16 v10MobileScenery_Internal/
+ 17 v10MobileScenery_KSEA/
+ 18 v10MobileScenery_LOWI/
+ 19 v10MobileScenery_Hawaii/
+ 20 v10MobileScenery_Test_Flights/
+ 21 /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/
+ 22 /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/
+ 23 /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/free_global_airports/
+ 24 /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/free_dsfs/
+ 25 /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/
+ 26 /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 forests/
+ 27 /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 roads/
+ 28 /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/
+ 29 /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/Mobile_Airport_Lib/
+
+WARNING: bad dataref in lights.txt: sim/graphics/animation/lights/airplane_landing_light_spill.  Rerun the installer to get a new lights.txt file.
+WARNING: bad dataref in lights.txt: sim/graphics/animation/lights/airplane_landing_light_spill.  Rerun the installer to get a new lights.txt file.
+WARNING: bad dataref in lights.txt: sim/graphics/animation/lights/airplane_taxi_light_spill.  Rerun the installer to get a new lights.txt file.
+WARNING: bad dataref in lights.txt: sim/graphics/animation/lights/airplane_spot_light_flash.  Rerun the installer to get a new lights.txt file.
+WARNING: bad dataref in lights.txt: sim/graphics/animation/lights/airplane_spot_light.  Rerun the installer to get a new lights.txt file.
+WARNING: bad dataref in lights.txt: sim/graphics/animation/lights/airplane_spot_light.  Rerun the installer to get a new lights.txt file.
+WARNING: bad dataref in lights.txt: sim/graphics/animation/lights/airplane_spot_light_spill.  Rerun the installer to get a new lights.txt file.
+WARNING: bad dataref in lights.txt: sim/graphics/animation/lights/airplane_generic_light_spill.  Rerun the installer to get a new lights.txt file.
+0:00:00.000 I/APP: Physical Memory: 5988352000
+0:00:00.000 I/APP: System RAM: 6
+0:00:00.000 I/VIEW: Orientation is: Landscape Left
+0:00:00.000 I/VIEW: Found safe areas of 47.0 pt left & 47.0 pt right
+0:00:00.000 I/APP: Setting up our Audio Session...
+0:00:00.000 I/OGL: Chosen GPU Bucket: gpu_high
+0:00:00.000 I/OGL: GL vendor    : Apple Inc.
+0:00:00.000 I/OGL: GL renderer  : Apple A14 GPU
+0:00:00.000 I/OGL: GL version   : OpenGL ES 3.0 Metal - 68.8
+0:00:00.000 I/OGL: GL extensions: GL_OES_standard_derivatives GL_KHR_texture_compression_astc_ldr GL_EXT_color_buffer_half_float GL_EXT_debug_label GL_EXT_debug_marker GL_EXT_pvrtc_sRGB GL_EXT_read_format_bgra GL_EXT_separate_shader_objects GL_EXT_shader_framebuffer_fetch GL_EXT_shader_texture_lod GL_EXT_shadow_samplers GL_EXT_texture_filter_anisotropic GL_APPLE_clip_distance GL_APPLE_color_buffer_packed_float GL_APPLE_copy_texture_levels GL_APPLE_rgb_422 GL_APPLE_texture_format_BGRA8888 GL_IMG_read_format GL_IMG_texture_compression_pvrtc 
+0:00:00.000 I/OGL: Found GLES Version: 300 ()
+0:00:00.000 I/OGL: PVRTC: 1 ATITC: 0 DDSTC: 0
+0:00:00.000 I/NAVT: Airspaces are done loading async...
+0:00:00.000 I/CLOU: Initializing resource cloud manager with a download path: /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/
+0:00:00.000 I/MAIN: Build Info: 11.4.6(160)
+Resolution: 0 x 0 mult: 5.00 ret_rat: 2.00
+Ram Class: 6
+Driver Vendor: Apple Inc.
+Driver Version: OpenGL ES 3.0 Metal - 68.8
+Driver Renderer: Apple A14 GPU
+Native sRGB support: YES
+0:00:00.000 I/STOR: Handling Event: store_event_start_initialization
+0:00:00.000 I/STOR: Changing State From: store_state_uninitialized to store_state_initializing
+0:00:00.000 I/STOR: OnInitSucceeded
+0:00:00.000 I/STOR: Handling Event: store_event_init_succeeded
+0:00:00.000 I/STOR: Changing State From: store_state_initializing to store_state_open_getting_inventory
+0:00:00.000 I/OGL: Framebuffer rebuilding.
+0:00:00.000 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+0:00:00.000 I/APP: Audio Routing Change. Input: MicrophoneWired Output: Headphones
+0:00:00.000 I/APP: Resuming App
+0:00:00.000 I/MMO: MMO is ready!
+0:00:00.831 I/STOR: OnInventorySucceeded
+0:00:00.831 I/STOR: Handling Event: store_event_inventory_succeeded
+0:00:00.831 I/STOR: Changing State From: store_state_open_getting_inventory to store_state_open_inventory_completed
+0:00:01.081 I/MMO: Set normal fly-in airport LEPA
+0:00:01.081 I/NAVT: NavData is done loading async...
+0:00:01.181 I/NAVT: Navaids are done loading async...
+0:00:01.331 I/NAVT: Fixes are done loading async...
+0:00:01.381 I/MSG: Unsubscribed from: Basic-Subscriber
+0:00:01.614 I/OGL: Framebuffer rebuilding.
+0:00:01.614 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+0:00:01.698 I/STOR: OnRestoreSuccessful: com.laminarresearch.XPlane10.b772
+0:00:01.698 I/STOR: OnRestoreSuccessful: com.laminarresearch.XPlane10.piperPA18
+0:00:01.698 I/STOR: OnRestoreSuccessful: com.laminarresearch.XPlane10.b744
+0:00:01.698 I/STOR: OnRestoreSuccessful: com.laminarresearch.XPlane10.airbusA320
+0:00:01.698 I/STOR: OnRestoreSuccessful: com.laminarresearch.XPlane10.dc3
+0:00:01.698 I/STOR: OnRestoreSuccessful: com.laminarresearch.XPlane10.crj200
+0:00:01.698 I/STOR: OnRestoreSuccessful: com.laminarresearch.XPlane10.b738
+0:00:01.698 I/STOR: OnRestoreSuccessful: com.laminarresearch.XPlane10.md80
+0:00:01.698 I/STOR: OnRestoreSuccessful: com.laminarresearch.XPlane10.sikorskyS76
+0:00:01.698 I/STOR: OnRestoreSuccessful: com.laminarresearch.XPlane10.glomoProYearly
+0:00:01.714 I/NAVT: Airways are done loading async...
+0:00:01.714 I/NAVT: All navt data is done loading async...
+0:00:01.748 I/MSG: Subscribed to: Pro-Subscriber
+0:00:01.828 I/MLT: AuthenticationChanged: Authorized
+0:00:02.015 I/MSG: Unsubscribed from: Non-Subscriber
+0:00:02.015 E/NAV: Unexpected response from Navigraph. Please contact support.. JSON response was: []
+0:00:02.283 I/STOR: Handling Event: store_event_inventory_started
+0:00:02.283 I/STOR: Ignoring inventory request
+0:00:02.283 I/OGL: Framebuffer rebuilding.
+0:00:02.283 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+0:00:02.399 I/CLOU: Start Session (region_window_controller) with components: com.laminarresearch.xplane_10.map_data_lo_res, com.laminarresearch.xplane_10.map_data_hi_res and bbox from 0.000000 0.000000 to 0.000000 0.000000
+0:00:02.399 I/CLOU: Downloading our server_list.txt
+0:00:03.132 I/CLOU: Download of https://lookup2.x-plane.com/_lookup_mobile_/server_list_1120.txt completed with SUCCESS!
+0:00:03.132 I/CLOU: Using DOWNLOADED server_list version 1
+0:00:04.049 I/CLOU: Download of https://lookup2.x-plane.com/_lookup_mobile_/component_list_1120.txt completed with SUCCESS!
+0:00:04.049 I/CLOU: Using DOWNLOADED component_list version 79
+0:00:04.199 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.map_data_hi_res with version 13
+0:00:04.216 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.map_data_lo_res with version 11
+0:00:04.232 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:04.849 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.283 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.601 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.617 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.634 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.650 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.667 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.683 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.700 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.717 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.734 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.750 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.767 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.784 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.800 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.817 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.834 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.851 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.867 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.884 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.902 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.919 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.934 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.951 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.967 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:05.984 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:06.001 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:06.017 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:06.034 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:06.051 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:06.067 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:06.084 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:06.101 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:06.117 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:06.134 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:06.151 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:06.168 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:06.184 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:00:08.018 I/CLOU: Ending Session (region_window_controller)...
+0:00:08.018 I/CLOU: Session Ended
+0:00:12.555 I/MMO: Initiating MMO connection
+0:00:12.555 I/MMO: Will try the following connections, in order:
+0:00:12.555 I/MMO: 2604:a880:400:d0::1709:6001|48034
+0:00:12.555 I/MMO: 104.248.112.118|48053
+0:00:12.555 I/MMO: 2604:a880:400:d0::1709:6001|48040
+0:00:12.555 I/MMO: 104.248.112.118|48068
+0:00:12.555 I/MMO: Initiated connection to 2604:a880:400:d0::1709:6001:48034
+0:00:12.555 I/MIS: Handling Event: mission_event_load
+0:00:12.555 I/MIS: Changing State From: mission_state_unloaded to mission_state_loading
+0:00:12.555 I/MIS: Starting mission: Multiplayer Freeflight
+0:00:12.555 W/APP: Device Type Not Found for machine: iPhone13,4. GPU Bucket: gpu_medium
+0:00:12.555 E/FLT: Init dat_p0 type:loc_ram HAD BOGUS RUNWAY! apt:KATL rwy:259 dir:0
+0:00:12.555 I/MAST: Load Region/Aircraft and Reset...starting resource download
+0:00:12.555 I/CLOU: Start Session (SIM_master) with components: com.laminarresearch.xplane_10.global_scenery, com.laminarresearch.xplane_10.global_airports2, com.laminarresearch.xplane_10.csl, com.laminarresearch.xplane_10.free_dsfs, com.laminarresearch.xplane_10.free_global_airports2, com.laminarresearch.xplane_10.apt_library, com.laminarresearch.xplane_10.planet_textures, com.laminarresearch.xplane_10.map_data_hi_res, com.laminarresearch.xplane_10.b738 and a start location of: 33.654018 -84.431435
+0:00:12.555 I/CLOU: Downloading our server_list.txt
+0:00:12.699 E/DREF: WARNING: art asset uses name which was not found.
+0:00:12.699 E/DREF: WARNING: art asset uses name which was not found.
+0:00:12.730 E/DREF: WARNING: art asset uses name which was not found.
+0:00:12.730 E/DREF: WARNING: art asset uses name which was not found.
+0:00:12.887 E/DREF: WARNING: art asset uses laminar/b747m/lighting/beacon_light/switch_pos which was not found.
+0:00:12.887 E/DREF: WARNING: art asset uses laminar/b747m/lighting/beacon_light/switch_pos which was not found.
+0:00:12.887 E/DREF: WARNING: art asset uses laminar/b747m/lighting/beacon_light/switch_pos which was not found.
+0:00:12.887 E/DREF: WARNING: art asset uses laminar/b747m/lighting/beacon_light/switch_pos which was not found.
+0:00:12.887 E/DREF: WARNING: art asset uses laminar/b747m/lighting/beacon_light/switch_pos which was not found.
+0:00:12.887 E/DREF: WARNING: art asset uses laminar/b747m/lighting/beacon_light/switch_pos which was not found.
+0:00:12.887 E/DREF: WARNING: art asset uses laminar/b747m/lighting/beacon_light/switch_pos which was not found.
+0:00:12.887 E/DREF: WARNING: art asset uses laminar/b747m/lighting/beacon_light/switch_pos which was not found.
+0:00:12.887 E/DREF: WARNING: art asset uses laminar/b747m/lighting/beacon_light/switch_pos which was not found.
+0:00:13.140 I/CLOU: Download of https://lookup2.x-plane.com/_lookup_mobile_/server_list_1120.txt completed with SUCCESS!
+0:00:13.140 I/CLOU: Using DOWNLOADED server_list version 1
+0:00:13.860 I/CLOU: Download of https://lookup2.x-plane.com/_lookup_mobile_/component_list_1120.txt completed with SUCCESS!
+0:00:13.860 I/CLOU: Using DOWNLOADED component_list version 79
+0:00:13.910 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.b738 with version 8
+0:00:14.071 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.map_data_hi_res with version 13
+0:00:14.102 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.planet_textures with version 5
+0:00:14.134 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.apt_library with version 19
+0:00:14.165 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.free_global_airports2 with version 3
+0:00:14.196 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.free_dsfs with version 4
+0:00:14.228 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.csl with version 4
+0:00:14.259 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.global_airports2 with version 15
+0:00:14.321 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.global_scenery with version 3
+0:00:14.978 I/APP: Suspending App
+0:00:16.271 I/CLOU: Created 25 potential work items for component com.laminarresearch.xplane_10.global_scenery
+0:00:16.271 I/CLOU: Created 1 potential work items for component com.laminarresearch.xplane_10.map_data_hi_res
+0:00:16.271 I/CLOU: Created 9 potential work items for component com.laminarresearch.xplane_10.planet_textures
+0:00:16.271 I/CLOU: Done creating work items. 25 secured and 10 unsecured new items were created.
+0:00:16.271 I/CLOU: Starting authentication...
+0:20:22.093 E/NET: Download failed with error: 28 for URL https://lookup2.x-plane.com/_lookup_mobile_/scenerysign
+0:20:22.093 E/HTTP: Curl Error Buffer: Callback aborted
+0:20:22.093 E/HTTP: HTTP Headers:
+0:20:22.093 E/HTTP: 	HTTP/1.1 100 Continue
+0:20:22.093 E/HTTP: 	
+0:20:22.093 E/HTTP: 	HTTP/1.1 307 Temporary Redirect
+0:20:22.093 E/HTTP: 	Server: Sucuri/Cloudproxy
+0:20:22.093 E/HTTP: 	Date: Mon, 21 Dec 2020 20:38:51 GMT
+0:20:22.093 E/HTTP: 	Content-Type: text/html
+0:20:22.093 E/HTTP: 	Content-Length: 196
+0:20:22.093 E/HTTP: 	Connection: keep-alive
+0:20:22.093 E/HTTP: 	X-Sucuri-ID: 13007
+0:20:22.093 E/HTTP: 	X-XSS-Protection: 1; mode=block
+0:20:22.093 E/HTTP: 	X-Frame-Options: SAMEORIGIN
+0:20:22.093 E/HTTP: 	X-Content-Type-Options: nosniff
+0:20:22.093 E/HTTP: 	Content-Security-Policy: upgrade-insecure-requests;
+0:20:22.105 E/HTTP: 	Location: https://groundcontrol.x-planemobile.com/v1/scenerysign
+0:20:22.105 E/HTTP: 	
+0:20:22.105 I/CLOU: Authentication failed with local NET-ERROR!
+0:20:22.105 I/CLOU: Handling Error in Session (SIM_master)
+0:20:22.105 I/CLOU: Ending Session (SIM_master)...
+0:20:22.105 I/CLOU: Session Ended
+0:20:22.105 I/MIS: Handling Event: mission_event_dsf_load_failed
+0:20:22.105 I/MIS: Changing State From: mission_state_loading to mission_state_unloaded
+0:20:22.105 I/STOR: Handling Event: store_event_inventory_started
+0:20:22.105 I/STOR: Ignoring inventory request
+0:20:22.105 I/POPU: Building Popup (0x107b64750): [Bad Network Connection] Bad Network Connection
+0:20:22.105 I/POPU: Showing Popup (0x107b64750)
+0:20:22.371 I/APP: Resuming App
+0:20:22.872 I/APP: Audio Routing Change. Input: MicrophoneWired Output: Headphones
+0:20:22.872 I/APP: Audio Routing Change. Input: MicrophoneWired Output: Headphones
+0:20:23.138 I/MMO: Set normal fly-in airport LEPA
+0:20:23.388 I/POPU: Destroying Active Popup (0x107b64750)
+0:20:25.791 I/MMO: Initiating MMO connection
+0:20:25.791 I/MMO: Will try the following connections, in order:
+0:20:25.791 I/MMO: 2604:a880:400:d0::1709:6001|48007
+0:20:25.791 I/MMO: 104.248.112.118|48085
+0:20:25.791 I/MMO: 2604:a880:400:d0::1709:6001|48088
+0:20:25.791 I/MMO: 104.248.112.118|48040
+0:20:25.791 I/MMO: Initiated connection to 2604:a880:400:d0::1709:6001:48007
+0:20:25.791 I/MIS: Handling Event: mission_event_load
+0:20:25.791 I/MIS: Changing State From: mission_state_unloaded to mission_state_loading
+0:20:25.791 I/MIS: Starting mission: Multiplayer Freeflight
+0:20:25.791 W/APP: Device Type Not Found for machine: iPhone13,4. GPU Bucket: gpu_medium
+0:20:25.791 E/FLT: Init dat_p0 type:loc_ram HAD BOGUS RUNWAY! apt:KATL rwy:259 dir:0
+0:20:25.791 I/MAST: Load Region/Aircraft and Reset...starting resource download
+0:20:25.791 I/CLOU: Start Session (SIM_master) with components: com.laminarresearch.xplane_10.global_scenery, com.laminarresearch.xplane_10.global_airports2, com.laminarresearch.xplane_10.csl, com.laminarresearch.xplane_10.free_dsfs, com.laminarresearch.xplane_10.free_global_airports2, com.laminarresearch.xplane_10.apt_library, com.laminarresearch.xplane_10.planet_textures, com.laminarresearch.xplane_10.map_data_hi_res, com.laminarresearch.xplane_10.b738 and a start location of: 33.654018 -84.431435
+0:20:25.791 I/CLOU: Downloading our server_list.txt
+0:20:26.367 I/CLOU: Download of https://lookup2.x-plane.com/_lookup_mobile_/server_list_1120.txt completed with SUCCESS!
+0:20:26.367 I/CLOU: Using DOWNLOADED server_list version 1
+0:20:27.250 I/CLOU: Download of https://lookup2.x-plane.com/_lookup_mobile_/component_list_1120.txt completed with SUCCESS!
+0:20:27.250 I/CLOU: Using DOWNLOADED component_list version 79
+0:20:27.292 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.b738 with version 8
+0:20:27.451 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.map_data_hi_res with version 13
+0:20:27.482 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.planet_textures with version 5
+0:20:27.514 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.apt_library with version 19
+0:20:27.546 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.free_global_airports2 with version 3
+0:20:27.577 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.free_dsfs with version 4
+0:20:27.608 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.csl with version 4
+0:20:27.640 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.global_airports2 with version 15
+0:20:27.703 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.global_scenery with version 3
+0:20:34.604 I/CLOU: Created 25 potential work items for component com.laminarresearch.xplane_10.global_scenery
+0:20:34.604 I/CLOU: Created 1 potential work items for component com.laminarresearch.xplane_10.map_data_hi_res
+0:20:34.604 I/CLOU: Created 9 potential work items for component com.laminarresearch.xplane_10.planet_textures
+0:20:34.604 I/CLOU: Done creating work items. 25 secured and 10 unsecured new items were created.
+0:20:34.604 I/CLOU: Starting authentication...
+0:20:34.992 I/MMO: Failed to connect to mmo-north-america2 (2604:a880:400:d0::1709:6001|48007)
+0:20:34.992 I/MMO: Initiated connection to 104.248.112.118:48085
+0:20:35.415 I/MMO: Test HTTP request succeeded
+0:20:35.611 I/MMO: Connected to mmo-north-america2 (104.248.112.118|48085)
+0:20:35.611 W/APP: Device Type Not Found for machine: iPhone13,4. GPU Bucket: gpu_medium
+0:20:37.438 I/CLOU: Authentication completed with SUCCESS!
+0:20:37.438 I/CLOU: We need to download 48339.910156 bytes and need 47255.722656 for disk storage.
+0:20:38.169 I/CLOU: Download of http://cds.j6b5v6a2.hwcdn.net/planet_textures/+40-100.etc completed with SUCCESS!
+0:20:38.984 I/CLOU: Download of http://cds.j6b5v6a2.hwcdn.net/planet_textures/+40-090.etc completed with SUCCESS!
+0:20:39.764 I/CLOU: Download of http://cds.j6b5v6a2.hwcdn.net/planet_textures/+40-080.etc completed with SUCCESS!
+0:20:40.416 I/CLOU: Download of http://cds.j6b5v6a2.hwcdn.net/planet_textures/+30-100.etc completed with SUCCESS!
+0:20:41.391 I/CLOU: Download of http://cds.j6b5v6a2.hwcdn.net/planet_textures/+30-090.etc completed with SUCCESS!
+0:20:42.073 I/CLOU: Download of http://cds.j6b5v6a2.hwcdn.net/planet_textures/+30-080.etc completed with SUCCESS!
+0:20:42.918 I/CLOU: Download of http://cds.j6b5v6a2.hwcdn.net/planet_textures/+20-100.etc completed with SUCCESS!
+0:20:43.081 W/NET: UPnP init failed: no UPnP-capable gateway found
+0:20:43.634 I/CLOU: Download of http://cds.j6b5v6a2.hwcdn.net/planet_textures/+20-090.etc completed with SUCCESS!
+0:20:44.703 I/CLOU: Download of http://cds.j6b5v6a2.hwcdn.net/planet_textures/+20-080.etc completed with SUCCESS!
+0:20:45.516 I/CLOU: Download of http://cds.j6b5v6a2.hwcdn.net/map_data_hi_res/+30-090/+30-090_pvr.zip completed with SUCCESS!
+0:20:47.386 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+35-087.dsf?ttl=1608587947&sig=ed665653b7bedd537d0410839855a974 completed with SUCCESS!
+0:20:48.456 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+35-086.dsf?ttl=1608587947&sig=c307bcab50fda7d0f601d7fad292775c completed with SUCCESS!
+0:20:49.687 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+35-085.dsf?ttl=1608587947&sig=f910441a20eb21ac7555e9a6a2570356 completed with SUCCESS!
+0:20:50.793 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+35-084.dsf?ttl=1608587947&sig=445f4166416323276cf689dd099233e4 completed with SUCCESS!
+0:20:51.117 W/NET: UPnP init failed: no UPnP-capable gateway found
+0:20:51.931 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+35-083.dsf?ttl=1608587947&sig=d8dbc89c34e7703cf29ca101cf2daaf1 completed with SUCCESS!
+0:20:55.407 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+34-087.dsf?ttl=1608587947&sig=a46c22721a0d1488ee287647a6506860 completed with SUCCESS!
+0:20:56.644 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+34-086.dsf?ttl=1608587947&sig=9d9b2ecbaafa34e4fe0093ce1d5f0819 completed with SUCCESS!
+0:20:57.947 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+34-085.dsf?ttl=1608587947&sig=d40eec5ac6f111e0b2ad995403fa0b9d completed with SUCCESS!
+0:20:59.116 W/NET: UPnP init failed: no UPnP-capable gateway found
+0:20:59.116 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+34-084.dsf?ttl=1608587947&sig=b7d4f05856fcbc4574ad1e360414b70e completed with SUCCESS!
+0:21:01.448 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+34-083.dsf?ttl=1608587947&sig=848cedb0baebd2f908ff7dea44388b0e completed with SUCCESS!
+0:21:02.453 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+33-087.dsf?ttl=1608587947&sig=cd969dfbd1b107a8fa46f8ce75c11fa8 completed with SUCCESS!
+0:21:03.622 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+33-086.dsf?ttl=1608587947&sig=2b324819568c37c3beb0a43a62e03932 completed with SUCCESS!
+0:21:05.990 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+33-085.dsf?ttl=1608587947&sig=0f76aefecfba4b2af0b28458a5dcb9b3 completed with SUCCESS!
+0:21:07.092 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+33-084.dsf?ttl=1608587947&sig=5ba7b114344ecce0f1dafa8337aa6f96 completed with SUCCESS!
+0:21:07.125 W/NET: UPnP init failed: no UPnP-capable gateway found
+0:21:07.125 I/MMO: UPnP result: Could not connect to a network gateway with UPnP support. You may not have internet access at all.
+0:21:07.125 W/APP: Device Type Not Found for machine: iPhone13,4. GPU Bucket: gpu_medium
+0:21:08.257 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+33-083.dsf?ttl=1608587947&sig=9eaaf6e784e35ece53d70b03dabbf88c completed with SUCCESS!
+0:21:09.714 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+32-087.dsf?ttl=1608587947&sig=265549dae29552c458a572cc265cabf0 completed with SUCCESS!
+0:21:10.816 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+32-086.dsf?ttl=1608587947&sig=78add5b34faa5573ebda879728daf0cc completed with SUCCESS!
+0:21:11.922 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+32-085.dsf?ttl=1608587947&sig=cb913ba4301cceaf1c75600f9a3fc586 completed with SUCCESS!
+0:21:13.415 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+32-084.dsf?ttl=1608587947&sig=327934937d89221b56e48ff2686bd30d completed with SUCCESS!
+0:21:14.552 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+32-083.dsf?ttl=1608587947&sig=45e3c0c2c11ef2d0b65ba0a7c0bbe3c6 completed with SUCCESS!
+0:21:15.562 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+31-087.dsf?ttl=1608587947&sig=cb4d3a669a3d3b4a6092e153cf956b38 completed with SUCCESS!
+0:21:16.470 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+31-086.dsf?ttl=1608587947&sig=6cd5c478eb4159a69ba80cc09f30fcdd completed with SUCCESS!
+0:21:17.484 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+31-085.dsf?ttl=1608587947&sig=73a96060f1b745d0a617347da8d62079 completed with SUCCESS!
+0:21:18.558 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+31-084.dsf?ttl=1608587947&sig=5d62a4d0c6c83881f0f19577a38cd3ff completed with SUCCESS!
+0:21:19.306 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+31-083.dsf?ttl=1608587947&sig=2b2de68d656531dc3d072050ef610fab completed with SUCCESS!
+0:21:19.339 I/MAST: Load Region/Aircraft and Reset...begin
+0:21:19.339 I/MAST: Load Region/Aircraft and Reset...done
+0:21:19.773 W/SCN: Missing object objects/com_2_Tanks.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Fueling_Stations/; replacing with blank
+0:21:19.835 W/SCN: Missing object objects/com_FBO_Modern1.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Hangars/; replacing with blank
+0:21:19.835 W/SCN: Missing object lib/airport/Common_Elements/Fence_Facades/com_sec_gate1.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Fence_Facades/; replacing with blank
+0:21:19.897 W/SCN: Missing object lib/cars/car.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Vintage_Airports/Hangars/; replacing with blank
+0:21:19.897 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Vintage_Airports/Hangars/; replacing with blank
+0:21:19.992 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Tree.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Vintage_Airports/Terminals/; replacing with blank
+0:21:19.992 W/SCN: Missing object lib/airport/Vintage_Airports/Terminals/Admin_Bldg.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Vintage_Airports/Terminals/; replacing with blank
+0:21:19.992 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Tree.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Classic_Airports/Control_Towers/; replacing with blank
+0:21:19.992 W/SCN: Missing object lib/airport/Common_Elements/Lighting/Dir_Flood_Sm.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Classic_Airports/Control_Towers/; replacing with blank
+0:21:20.023 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Tree.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Classic_Airports/Control_Towers/; replacing with blank
+0:21:20.023 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster_w_wall.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Classic_Airports/Control_Towers/; replacing with blank
+0:21:20.054 W/SCN: Missing object lib/cars/car.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Miscellaneous/; replacing with blank
+0:21:20.054 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Miscellaneous/; replacing with blank
+0:21:20.054 W/SCN: Missing object objects/com_Cvrd_Station.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Fueling_Stations/; replacing with blank
+0:21:20.054 W/SCN: Missing object lib/cars/car.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Miscellaneous/; replacing with blank
+0:21:20.085 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster_w_wall.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Modern_Airports/Control_Towers/; replacing with blank
+0:21:20.085 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Hangars/; replacing with blank
+0:21:20.085 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Hangars/; replacing with blank
+0:21:20.116 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Hangars/; replacing with blank
+0:21:20.116 W/SCN: Missing object lib/airport/aircraft/GA/Osprey_GP5.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Vintage_Airports/Hangars/; replacing with blank
+0:21:20.116 W/SCN: Missing object lib/airport/aircraft/GA/Cessna_172.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Vintage_Airports/Hangars/; replacing with blank
+0:21:20.147 W/SCN: Missing object lib/airport/Common_Elements/Fence_Facades/com_sec_gate1.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Fence_Facades/; replacing with blank
+0:21:20.178 W/SCN: Missing object tower3_1.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/urban_high/objects/; replacing with blank
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_chaser_3_fast[0] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_chaser_3_fast[1] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_chaser_3_fast[2] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[37] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[0] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[10] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[11] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[12] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[13] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[14] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[15] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[16] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[17] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[18] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[19] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[1] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[20] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[21] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[22] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[23] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[24] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[25] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[26] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[27] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[28] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[29] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[2] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[30] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[31] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[32] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[33] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[34] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[35] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[36] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[37] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[38] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[3] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[4] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[5] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[6] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[7] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[8] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock_temp[9] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_sequence_2[0] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_sequence_2[1] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_sequence_2[2] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_sequence_2[0] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_sequence_2[0] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_sequence_2[1] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_sequence_2[2] which was not found.
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_sequence_2[0] which was not found.
+0:21:20.178 W/SCN: Missing object lib/constructions/helipads/rooftop_helipad_3.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/urban_high/objects/; replacing with blank
+0:21:20.178 W/SCN: Missing object lib/constructions/helipads/rooftop_helipad_4.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/urban_high/objects/; replacing with blank
+0:21:20.178 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_flicker which was not found.
+0:21:20.272 W/SCN: Missing object lib/constructions/helipads/rooftop_helipad_1.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/urban_high/objects/; replacing with blank
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[38] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[0] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[10] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[11] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[12] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[13] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[14] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[15] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[16] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[17] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[18] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[19] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[1] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[20] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[21] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[2] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[38] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[3] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[4] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[5] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[6] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[7] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[8] which was not found.
+0:21:20.303 E/DREF: WARNING: art asset uses sim/graphics/animation/digital_clock[9] which was not found.
+0:21:20.303 W/SCN: Missing object lib/g10/global_objects/rooftop_helipad_2A.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/urban_high/objects/; replacing with blank
+0:21:20.303 W/SCN: Missing object lib/g10/global_objects/rooftop_helipad_2A.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/urban_high/objects/; replacing with blank
+0:21:20.334 W/SCN: Missing object lib/g10/US/commercial/sign_xplane_neon.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/urban_high/objects/; replacing with blank
+0:21:20.553 I/SCN: DSF load time: 909061 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+33-085.dsf (0 tris, 0 skipped for 0.0 m^2)
+0:21:20.928 I/SCN: DSF load time: 372571 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+33-085.dsf (121167 tris, 0 skipped for 0.0 m^2)
+0:21:21.022 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster_w_wall.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Misc_Buildings/; replacing with blank
+0:21:21.022 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Barrel_Trash_Can.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Misc_Buildings/; replacing with blank
+0:21:21.022 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Stack_of_Cones.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Misc_Buildings/; replacing with blank
+0:21:21.022 I/SCN: DSF load time: 48945 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+33-084.dsf (0 tris, 0 skipped for 0.0 m^2)
+0:21:21.242 I/SCN: DSF load time: 211157 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+33-084.dsf (76639 tris, 0 skipped for 0.0 m^2)
+0:21:21.367 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Hangars/; replacing with blank
+0:21:21.367 W/SCN: Missing object lib/cars/car.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Hangars/; replacing with blank
+0:21:21.367 I/SCN: DSF load time: 112697 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+34-085.dsf (0 tris, 0 skipped for 0.0 m^2)
+0:21:21.750 I/SCN: DSF load time: 356684 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+34-085.dsf (95074 tris, 0 skipped for 0.0 m^2)
+0:21:21.844 I/SCN: DSF load time: 44454 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+34-084.dsf (0 tris, 0 skipped for 0.0 m^2)
+0:21:22.159 I/SCN: DSF load time: 307972 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+34-084.dsf (80385 tris, 0 skipped for 0.0 m^2)
+0:21:24.008 I/ACF: Loading airplane number 0 with $DOWNLOADS$/GloMo Aircraft/B737-800/b738.acf
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/sound/packs_flow[0] which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/sound/packs_flow[0] which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/sound/packs_flow[1] which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/sound/packs_flow[1] which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/handles/flap_lever/stop_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/handles/flap_lever/stop_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/adjust/capt/handle_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/adjust/capt/handle_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/adjust/fo/handle_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/adjust/fo/handle_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses FJS/727/Radios/GndCallButton which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses FJS/727/Radios/GndCallButton which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/electrical/cab_util_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/electrical/cab_util_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/electrical/ife_switch_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/electrical/ife_switch_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/pressurization/l_recirc_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/pressurization/l_recirc_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/pressurization/r_recirc_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/pressurization/r_recirc_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/pressurization/l_pack_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/pressurization/l_pack_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/pressurization/r_pack_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/pressurization/r_pack_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/pressurization/iso_valve_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/pressurization/iso_valve_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/autopilot/capt_fd_cmd_pfd_status which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/autopilot/capt_fd_cmd_pfd_status which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/autopilot/fo_fd_cmd_pfd_status which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/autopilot/fo_fd_cmd_pfd_status which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/knobs/n1_set_mode_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/knobs/n1_set_mode_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/knobs/n1_set_pos which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ABS_DELTA=laminar/B738/knobs/n1_set_pos which was not found.
+0:21:24.008 I/SND: This aircraft is using FMOD in FULL mode.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses Parameter 1 which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses Parameter 1 which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses Parameter 1 which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses Parameter 1 which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses Parameter 1 which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses param which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses param which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/sound/packs_press[0] which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/sound/packs_flow[0] which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/sound/packs_press[1] which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/sound/packs_flow[1] which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADRS which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses param which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses param which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses Param which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses adsr which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/sound/cond_lever[0] which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/sound/cond_lever[0] which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/sound/cond_lever[1] which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses laminar/B738/sound/cond_lever[1] which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/DREF: WARNING: art asset uses ADSR which was not found.
+0:21:24.008 E/FLT: Init dat_p0 type:loc_ram HAD BOGUS RUNWAY! apt:KATL rwy:259 dir:0
+0:21:24.008 I/REPLAY: Registered birth event for flt 0, entity id: 2
+0:21:24.008 I/REPLAY: Creating flt entity with entity id 2 and p_index 0
+0:21:28.284 I/MIS: Handling Event: mission_event_dsf_loaded
+0:21:28.284 I/MIS: Changing State From: mission_state_loading to mission_state_loaded_ready
+0:21:28.284 I/STOR: Handling Event: store_event_inventory_started
+0:21:28.284 I/STOR: Ignoring inventory request
+0:21:28.284 I/MIS: Handling Event: mission_event_pregame_beginning
+0:21:28.284 I/MIS: Changing State From: mission_state_loaded_ready to mission_state_running_pregame
+0:21:28.284 I/MIS: Handling Event: mission_event_pregame_ending
+0:21:28.284 I/MIS: Changing State From: mission_state_running_pregame to mission_state_pregame_done
+0:21:28.284 I/MIS: Handling Event: mission_event_mission_start
+0:21:28.284 I/MIS: Changing State From: mission_state_pregame_done to mission_state_running_mission
+0:21:31.540 I/MMO: Received remote packet
+0:21:32.574 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:21:42.581 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:21:52.588 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:22:02.594 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:22:12.601 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:22:22.607 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:22:32.613 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:22:42.618 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:22:52.625 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:22:53.759 I/MAP: Setting Nav1 to DOBBINS (MARIETTA) TACAN(DOB) on 11300 and OBS to 351.686829
+0:23:02.930 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:23:12.937 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:23:22.944 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:23:32.950 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:23:42.956 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:23:52.961 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:24:02.967 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:24:12.973 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:24:22.980 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:24:32.987 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:24:42.993 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:24:53.000 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:25:03.005 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:25:13.013 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:25:23.019 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:25:33.025 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:25:43.030 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:25:53.036 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:26:03.042 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:26:13.114 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:26:23.120 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:26:33.125 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:26:43.130 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:26:53.136 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:27:03.143 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:27:13.147 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:27:23.153 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:27:33.162 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:27:43.174 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:27:53.283 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:27:57.641 I/APP: Suspending App
+0:27:58.104 I/APP: Resuming App
+0:28:13.363 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:28:23.378 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:28:25.516 I/APP: Suspending App
+0:28:25.819 I/APP: Resuming App
+0:28:27.016 I/APP: Suspending App
+0:28:27.420 I/APP: Resuming App
+0:28:33.407 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:28:40.861 I/APP: Suspending App
+0:28:41.277 I/APP: Resuming App
+0:28:43.411 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:28:53.414 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:29:03.423 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:29:13.429 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:29:23.434 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:29:30.512 I/APP: Suspending App
+0:29:30.704 I/APP: Resuming App
+0:29:31.208 I/APP: Suspending App
+0:29:31.587 I/APP: Resuming App
+0:29:33.453 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:29:33.805 I/APP: Suspending App
+0:29:34.122 I/APP: Resuming App
+0:29:43.467 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:29:48.879 I/APP: Suspending App
+0:29:49.247 I/APP: Resuming App
+0:29:53.485 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:30:03.491 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:30:13.510 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:30:23.516 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:30:33.516 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:30:43.677 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:30:53.502 I/APP: Suspending App
+0:30:53.896 I/APP: Resuming App
+0:30:54.414 I/APP: Suspending App
+0:30:54.796 I/APP: Resuming App
+0:30:55.329 I/APP: Suspending App
+0:30:55.663 I/APP: Resuming App
+0:30:57.279 I/APP: Suspending App
+0:30:57.664 I/APP: Resuming App
+0:30:58.284 I/APP: Suspending App
+0:30:58.698 I/APP: Resuming App
+0:30:59.203 I/APP: Suspending App
+0:30:59.532 I/APP: Resuming App
+0:31:02.495 I/APP: Suspending App
+0:31:02.901 I/APP: Resuming App
+0:31:03.686 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:31:13.699 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:31:23.715 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:31:27.055 I/APP: Suspending App
+0:31:27.380 I/APP: Resuming App
+0:31:33.719 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:31:43.725 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:31:45.315 I/APP: Suspending App
+0:31:45.605 I/APP: Resuming App
+0:31:53.740 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:32:03.748 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:32:13.754 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:32:23.779 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:32:33.795 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:32:43.800 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:32:53.804 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:33:03.809 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:33:13.817 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:33:23.834 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:33:33.855 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:33:43.892 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:33:53.904 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:34:03.917 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:34:13.921 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:34:23.774 I/APP: Suspending App
+0:34:24.090 I/APP: Resuming App
+0:34:33.961 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:34:41.715 I/APP: Suspending App
+0:34:41.947 I/APP: Resuming App
+0:34:43.965 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:34:53.969 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:35:03.973 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:35:13.994 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:35:24.064 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:35:34.068 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:35:44.073 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:35:54.077 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:35:57.228 I/MMO: Set normal fly-in airport LEPA
+0:36:04.081 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:36:14.085 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:36:24.089 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:36:34.093 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:36:44.098 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:36:54.101 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:37:04.116 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:37:14.129 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:37:24.142 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:37:34.177 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:37:44.203 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:37:54.267 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:38:04.283 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:38:14.284 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:38:20.279 E/NET: Download failed with http error: 429 for URL http://104.248.112.118:4000/api/v1/comm/+33-085
+0:38:20.279 E/HTTP: Curl Error Buffer: 
+0:38:20.279 E/HTTP: HTTP Headers:
+0:38:20.279 E/HTTP: 	HTTP/1.1 429 Too Many Requests
+0:38:20.279 E/HTTP: 	access-control-allow-origin: *
+0:38:20.279 E/HTTP: 	cache-control: max-age=0, private, must-revalidate
+0:38:20.279 E/HTTP: 	content-length: 29
+0:38:20.279 E/HTTP: 	content-type: application/json; charset=utf-8
+0:38:20.279 E/HTTP: 	date: Mon, 21 Dec 2020 21:16:49 GMT
+0:38:20.279 E/HTTP: 	server: Cowboy
+0:38:20.279 E/HTTP: 	
+0:38:20.429 E/MMO: HTTP error 429 posting to http://104.248.112.118:4000/api/v1/comm/+33-085
+0:38:24.285 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:38:34.298 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:38:44.301 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:38:54.311 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:39:04.316 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:39:14.328 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:39:22.864 I/APP: Suspending App
+0:39:23.647 I/APP: Resuming App
+0:39:24.331 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:39:26.699 I/APP: Suspending App
+0:39:26.982 I/APP: Resuming App
+0:39:34.335 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:39:44.343 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:39:54.491 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:40:04.494 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:40:14.498 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:40:24.503 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:40:34.507 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:40:44.511 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:40:54.515 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:41:04.516 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:41:14.565 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:41:24.572 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:41:34.579 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:41:44.596 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:41:54.605 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:42:04.608 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:42:14.611 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:42:24.615 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:42:34.619 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:42:44.638 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:42:54.643 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:43:04.647 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:43:14.651 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:43:24.655 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:43:34.658 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:43:44.662 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:43:54.665 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:44:04.667 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:44:14.236 I/APP: Suspending App
+0:44:14.969 I/APP: Resuming App
+0:44:16.920 I/APP: Suspending App
+0:44:17.370 I/APP: Resuming App
+0:44:24.673 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:44:34.775 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:44:44.780 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:44:54.783 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:45:04.786 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:45:14.789 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:45:24.793 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:45:34.808 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:45:44.817 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:45:54.821 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:45:59.573 I/MAP: Setting Nav1 to KATL 09R ILS-cat-III(IFUN) on 10890 and OBS to 95.248848
+0:45:59.573 I/MAP: Resetting aircraft for ILS approach to: KATL 09R ILS-cat-III(IFUN)
+0:45:59.573 I/MAST: Resetting aircraft - reset_type: 6
+0:45:59.573 I/FLT: Init dat_p0 type:loc_specify_lle lat:33.630763 lon:-84.647252 ele(ft):3953.798580 psi:89.980003 spd(kts):164.450004
+0:45:59.573 I/REPLAY: Registered death event for flt entity id 2
+0:45:59.573 I/REPLAY: Registered birth event for flt 0, entity id: 1398
+0:45:59.573 I/REPLAY: Creating flt entity with entity id 1398 and p_index 0
+0:45:59.573 I/MAST: Aircraft reset complete
+0:45:59.589 E/SCN: Failed to find resource 'lib/g10/decals/cracked_dirt_and_asphalt.dcl', referenced from file '/var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/industrial/light/objects/'.
+0:45:59.589 E/SCN: Failed to find resource 'lib/g10/decals/cracked_dirt_and_asphalt.dcl', referenced from file '/var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/industrial/light/objects/'.
+0:45:59.589 E/SCN: Failed to find resource 'lib/g10/decals/cracked_dirt_and_asphalt.dcl', referenced from file '/var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/industrial/light/objects/'.
+0:45:59.589 I/SCN: DSF load time: 187106 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+33-086.dsf (0 tris, 0 skipped for 0.0 m^2)
+0:46:00.174 I/SCN: DSF load time: 295514 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+33-086.dsf (66665 tris, 0 skipped for 0.0 m^2)
+0:46:00.225 I/SCN: DSF load time: 33508 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+34-086.dsf (0 tris, 0 skipped for 0.0 m^2)
+0:46:00.574 I/SCN: DSF load time: 345282 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+34-086.dsf (72853 tris, 0 skipped for 0.0 m^2)
+0:46:05.076 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:46:15.080 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:46:25.084 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:46:35.088 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:46:45.099 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:46:55.108 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:47:05.132 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:47:15.137 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:47:25.699 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:47:35.701 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:47:45.731 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:47:55.736 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:48:05.740 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:48:11.018 I/APP: Suspending App
+0:48:11.792 I/APP: Resuming App
+0:48:15.750 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:48:23.059 I/APP: Suspending App
+0:48:23.896 I/APP: Resuming App
+0:48:25.797 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:48:30.308 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster_w_wall.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Misc_Buildings/; replacing with blank
+0:48:30.308 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Barrel_Trash_Can.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Misc_Buildings/; replacing with blank
+0:48:30.308 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Stack_of_Cones.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Misc_Buildings/; replacing with blank
+0:48:30.339 I/SCN: DSF load time: 58305 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+33-084.dsf (0 tris, 0 skipped for 0.0 m^2)
+0:48:30.920 I/SCN: DSF load time: 591611 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+33-084.dsf (76639 tris, 0 skipped for 0.0 m^2)
+0:48:31.104 I/SCN: DSF load time: 80091 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+34-084.dsf (0 tris, 0 skipped for 0.0 m^2)
+0:48:31.945 I/SCN: DSF load time: 858204 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+34-084.dsf (80385 tris, 0 skipped for 0.0 m^2)
+0:48:35.886 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:48:39.140 I/MAST: Resetting aircraft - reset_type: 11
+0:48:39.140 I/FLT: Init dat_p0 type:loc_tak apt:KATL rwy:08R
+0:48:39.140 I/REPLAY: Registered death event for flt entity id 1398
+0:48:39.140 I/REPLAY: Registered birth event for flt 0, entity id: 2794
+0:48:39.140 I/REPLAY: Creating flt entity with entity id 2794 and p_index 0
+0:48:39.140 I/MAST: Aircraft reset complete
+0:48:45.887 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:48:55.902 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:49:05.903 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:49:15.916 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:49:25.919 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:49:35.656 I/MAP: Setting Nav1 to PEACHTREE (ATLANTA) VOR/DME(PDK) on 11660 and OBS to 26.287493
+0:49:35.923 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:49:45.960 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:49:55.963 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:50:05.966 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:50:15.970 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:50:25.974 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:50:35.978 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:50:45.983 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:50:55.987 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:51:05.991 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:51:15.995 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:51:25.998 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:51:36.002 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:51:36.653 I/MMO: Set normal fly-in airport LEPA
+0:51:46.006 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:51:56.012 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:52:06.019 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:52:16.026 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:52:26.031 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:52:36.036 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:52:46.039 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:52:56.042 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:53:06.046 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:53:16.050 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:53:26.053 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:53:36.057 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:53:46.060 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:53:56.064 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:54:06.068 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:54:16.071 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:54:26.075 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:54:34.862 I/MAP: Setting Adf1 to FLOWERY BRANCH (GAINESVILLE) NDB(FKV) on 365 
+0:54:36.079 I/CLOU: Created 5 potential work items for component com.laminarresearch.xplane_10.global_scenery
+0:54:36.079 I/CLOU: Created 1 potential work items for component com.laminarresearch.xplane_10.map_data_hi_res
+0:54:36.079 I/CLOU: Done creating work items. 5 secured and 1 unsecured new items were created.
+0:54:36.079 I/CLOU: Starting authentication...
+0:54:38.580 I/CLOU: Authentication completed with SUCCESS!
+0:54:38.580 I/CLOU: We need to download 12777.459961 bytes and need 10774.459961 for disk storage.
+0:54:39.613 I/CLOU: Download of http://cds.j6b5v6a2.hwcdn.net/map_data_hi_res/+30-090/+30-090_pvr.zip completed with SUCCESS!
+0:54:41.131 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+36-087.dsf?ttl=1608589988&sig=393ba0030d072d41df589415dfeb1437 completed with SUCCESS!
+0:54:42.314 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+36-086.dsf?ttl=1608589988&sig=c193dcae36b0c32bd221c9c2f9d80260 completed with SUCCESS!
+0:54:43.598 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+36-085.dsf?ttl=1608589988&sig=a8023757008c08b961201c9c599e3b16 completed with SUCCESS!
+0:54:44.898 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+36-084.dsf?ttl=1608589988&sig=5e3ca0a8942804fd251350f10836dfb7 completed with SUCCESS!
+0:54:46.082 I/CLOU: Created 1 potential work items for component com.laminarresearch.xplane_10.global_scenery
+0:54:46.082 I/CLOU: Removing 1 new work items that are duplicates of items already in the existing queue.
+0:54:46.082 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:54:46.149 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30-090/+36-083.dsf?ttl=1608589988&sig=26b30049e89a3ecfb7efcfec5c0799de completed with SUCCESS!
+0:54:56.085 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:55:06.090 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:55:14.343 I/APP: Suspending App
+0:55:15.408 I/APP: Resuming App
+0:55:16.093 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:55:26.096 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:55:36.100 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:55:46.103 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:55:56.106 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:56:06.110 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:56:16.114 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:56:26.116 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:56:36.119 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:56:46.122 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:56:54.658 I/MAP: Setting Nav1 to DOBBINS (MARIETTA) TACAN(DOB) on 11300 and OBS to 199.013351
+0:56:56.125 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:57:06.129 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:57:16.133 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:57:26.137 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:57:36.141 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:57:46.145 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:57:56.148 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:58:06.152 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:58:16.155 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:58:26.159 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:58:36.162 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:58:46.165 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:58:56.170 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:58:58.471 E/SCN: Failed to find resource 'lib/g10/decals/cracked_dirt_and_asphalt.dcl', referenced from file '/var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/industrial/light/objects/'.
+0:58:58.471 E/SCN: Failed to find resource 'lib/g10/decals/cracked_dirt_and_asphalt.dcl', referenced from file '/var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/industrial/light/objects/'.
+0:58:58.488 E/SCN: Failed to find resource 'lib/g10/decals/cracked_dirt_and_asphalt.dcl', referenced from file '/var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/industrial/light/objects/'.
+0:58:58.488 I/SCN: DSF load time: 59337 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+33-086.dsf (0 tris, 0 skipped for 0.0 m^2)
+0:58:58.737 I/SCN: DSF load time: 260228 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+33-086.dsf (66665 tris, 0 skipped for 0.0 m^2)
+0:58:58.789 I/SCN: DSF load time: 13193 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+34-086.dsf (0 tris, 0 skipped for 0.0 m^2)
+0:58:59.121 I/SCN: DSF load time: 344232 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+34-086.dsf (72853 tris, 0 skipped for 0.0 m^2)
+0:59:06.173 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:59:16.176 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:59:26.179 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:59:36.181 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:59:46.184 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+0:59:56.187 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:00:06.190 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:00:16.193 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:00:26.195 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:00:36.199 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:00:46.204 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:00:56.207 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:01:06.210 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:01:16.213 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:01:26.217 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:01:36.221 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:01:46.224 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:01:56.227 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:02:06.231 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:02:16.234 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:02:25.752 I/MAP: Setting Nav1 to KATL 09R ILS-cat-III(IFUN) on 10890 and OBS to 126.101913
+1:02:26.237 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:02:36.238 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:02:46.241 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:02:56.243 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:03:06.248 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:03:16.249 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:03:26.618 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:03:29.219 I/APP: Suspending App
+1:03:33.870 I/APP: Resuming App
+1:03:36.639 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:03:46.727 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:03:56.742 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:04:06.758 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:04:16.768 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:04:26.770 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:04:33.647 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster_w_wall.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Misc_Buildings/; replacing with blank
+1:04:33.647 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Barrel_Trash_Can.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Misc_Buildings/; replacing with blank
+1:04:33.647 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Stack_of_Cones.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Misc_Buildings/; replacing with blank
+1:04:33.680 I/SCN: DSF load time: 73393 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+33-084.dsf (0 tris, 0 skipped for 0.0 m^2)
+1:04:34.408 I/SCN: DSF load time: 699302 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+33-084.dsf (76639 tris, 0 skipped for 0.0 m^2)
+1:04:34.527 I/SCN: DSF load time: 79236 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+34-084.dsf (0 tris, 0 skipped for 0.0 m^2)
+1:04:35.356 I/SCN: DSF load time: 831931 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+34-084.dsf (80385 tris, 0 skipped for 0.0 m^2)
+1:04:36.822 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:04:46.834 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:04:56.843 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:05:06.846 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:05:16.848 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:05:26.853 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:05:35.585 I/APP: Suspending App
+1:05:35.968 I/APP: Resuming App
+1:05:36.918 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:05:46.921 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:05:56.923 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:06:06.925 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:06:16.927 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:06:21.383 E/NET: Download failed with error: 28 for URL http://104.248.112.118:4000/api/v1/comm/122800
+1:06:21.383 E/HTTP: Curl Error Buffer: Callback aborted
+1:06:21.383 E/HTTP: HTTP Headers:
+1:06:21.383 E/HTTP: 	HTTP/1.1 200 OK
+1:06:21.383 E/HTTP: 	access-control-allow-origin: *
+1:06:21.383 E/HTTP: 	cache-control: max-age=0, private, must-revalidate
+1:06:21.383 E/HTTP: 	content-length: 2823
+1:06:21.383 E/HTTP: 	content-type: application/json; charset=utf-8
+1:06:21.383 E/HTTP: 	date: Mon, 21 Dec 2020 21:44:20 GMT
+1:06:21.383 E/HTTP: 	server: Cowboy
+1:06:21.383 E/HTTP: 	
+1:06:26.932 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:06:36.932 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:06:46.951 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:06:56.956 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:07:06.960 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:07:10.879 I/MMO: Set normal fly-in airport LEPA
+1:07:16.965 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:07:26.969 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:07:36.978 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:07:46.992 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:07:56.995 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:08:06.998 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:08:17.001 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:08:27.054 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:08:37.058 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:08:40.292 E/SCN: Failed to find resource 'lib/g10/decals/cracked_dirt_and_asphalt.dcl', referenced from file '/var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/industrial/light/objects/'.
+1:08:40.292 E/SCN: Failed to find resource 'lib/g10/decals/cracked_dirt_and_asphalt.dcl', referenced from file '/var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/industrial/light/objects/'.
+1:08:40.309 E/SCN: Failed to find resource 'lib/g10/decals/cracked_dirt_and_asphalt.dcl', referenced from file '/var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/US/industrial/light/objects/'.
+1:08:40.309 I/SCN: DSF load time: 98860 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+33-086.dsf (0 tris, 0 skipped for 0.0 m^2)
+1:08:40.558 I/SCN: DSF load time: 255146 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+33-086.dsf (66665 tris, 0 skipped for 0.0 m^2)
+1:08:40.611 I/SCN: DSF load time: 18083 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+34-086.dsf (0 tris, 0 skipped for 0.0 m^2)
+1:08:40.925 I/SCN: DSF load time: 311218 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+34-086.dsf (72853 tris, 0 skipped for 0.0 m^2)
+1:08:47.060 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:08:57.063 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:09:07.065 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:09:17.068 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:09:27.071 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:09:37.074 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:09:47.078 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:09:56.931 I/MAP: Setting Nav1 to KATL 09R ILS-cat-III(IFUN) on 10890 and OBS to 95.120033
+1:09:56.931 I/MAP: Resetting aircraft for ILS approach to: KATL 09R ILS-cat-III(IFUN)
+1:09:56.931 I/MAST: Resetting aircraft - reset_type: 6
+1:09:56.931 I/FLT: Init dat_p0 type:loc_specify_lle lat:33.632635 lon:-84.647263 ele(ft):3953.845437 psi:89.980003 spd(kts):164.450004
+1:09:56.931 I/REPLAY: Registered death event for flt entity id 2794
+1:09:56.931 I/REPLAY: Registered birth event for flt 0, entity id: 4224
+1:09:56.931 I/REPLAY: Creating flt entity with entity id 4224 and p_index 0
+1:09:56.931 I/MAST: Aircraft reset complete
+1:09:57.096 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:10:07.101 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:10:17.103 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:10:27.118 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:10:37.135 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:10:47.136 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:10:57.144 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:11:07.162 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:11:17.177 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:11:27.528 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:11:34.293 I/APP: Suspending App
+1:11:35.429 I/APP: Resuming App
+1:11:37.555 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:11:47.566 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:11:57.569 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:12:07.585 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:12:17.591 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:12:27.605 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:12:34.041 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Blue_Dumpster_w_wall.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Misc_Buildings/; replacing with blank
+1:12:34.041 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Barrel_Trash_Can.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Misc_Buildings/; replacing with blank
+1:12:34.041 W/SCN: Missing object lib/airport/Common_Elements/Miscellaneous/Stack_of_Cones.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Misc_Buildings/; replacing with blank
+1:12:34.078 I/SCN: DSF load time: 52093 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+33-084.dsf (0 tris, 0 skipped for 0.0 m^2)
+1:12:34.721 I/SCN: DSF load time: 665747 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+33-084.dsf (76639 tris, 0 skipped for 0.0 m^2)
+1:12:34.837 I/SCN: DSF load time: 59632 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30-090/+34-084.dsf (0 tris, 0 skipped for 0.0 m^2)
+1:12:35.796 I/SCN: DSF load time: 957334 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30-090/+34-084.dsf (80385 tris, 0 skipped for 0.0 m^2)
+1:12:37.875 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:12:47.888 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:12:49.489 I/POPU: Building Popup (0x15366f5a0): [END FLIGHT?] Are you sure you wish to end this flight?
+1:12:49.489 I/POPU: Showing Popup (0x15366f5a0)
+1:12:50.006 I/POPU: Destroying Active Popup (0x15366f5a0)
+1:12:50.006 I/MIS: Handling Event: mission_event_mission_end_user_quit
+1:12:50.006 I/MIS: Changing State From: mission_state_running_mission to mission_state_unloaded
+1:12:50.006 W/APP: Device Type Not Found for machine: iPhone13,4. GPU Bucket: gpu_medium
+1:12:50.006 I/MIS: Ending mission: Multiplayer Freeflight
+1:12:50.006 I/CLOU: Ending Session (SIM_master)...
+1:12:50.006 I/CLOU: Session Ended
+1:12:50.006 I/STOR: Handling Event: store_event_inventory_started
+1:12:50.006 I/STOR: Ignoring inventory request
+1:12:53.992 I/MMO: Initiating MMO connection
+1:12:53.992 I/MMO: Will try the following connections, in order:
+1:12:53.992 I/MMO: 2604:a880:400:d0::1709:6001|48097
+1:12:53.992 I/MMO: 104.248.112.118|48082
+1:12:53.992 I/MMO: 2604:a880:400:d0::1709:6001|48094
+1:12:53.992 I/MMO: 104.248.112.118|48090
+1:12:53.992 I/MMO: Initiated connection to 2604:a880:400:d0::1709:6001:48097
+1:12:53.992 I/MIS: Handling Event: mission_event_load
+1:12:53.992 I/MIS: Changing State From: mission_state_unloaded to mission_state_loading
+1:12:53.992 I/MIS: Starting mission: Multiplayer Freeflight
+1:12:53.992 W/APP: Device Type Not Found for machine: iPhone13,4. GPU Bucket: gpu_medium
+1:12:53.992 I/FLT: Init dat_p0 type:loc_ifr apt:LEPA rwy:H3
+1:12:53.992 I/MAST: Load Region/Aircraft and Reset...starting resource download
+1:12:53.992 I/CLOU: Start Session (SIM_master) with components: com.laminarresearch.xplane_10.global_scenery, com.laminarresearch.xplane_10.global_airports2, com.laminarresearch.xplane_10.csl, com.laminarresearch.xplane_10.free_dsfs, com.laminarresearch.xplane_10.free_global_airports2, com.laminarresearch.xplane_10.apt_library, com.laminarresearch.xplane_10.planet_textures, com.laminarresearch.xplane_10.map_data_hi_res, com.laminarresearch.xplane_10.b738 and a start location of: 39.645000 2.923761
+1:12:53.992 I/CLOU: Downloading our server_list.txt
+1:12:54.694 I/CLOU: Download of https://lookup2.x-plane.com/_lookup_mobile_/server_list_1120.txt completed with SUCCESS!
+1:12:54.694 I/CLOU: Using DOWNLOADED server_list version 1
+1:12:55.610 I/CLOU: Download of https://lookup2.x-plane.com/_lookup_mobile_/component_list_1120.txt completed with SUCCESS!
+1:12:55.610 I/CLOU: Using DOWNLOADED component_list version 79
+1:12:55.657 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.b738 with version 8
+1:12:55.817 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.map_data_hi_res with version 13
+1:12:55.848 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.planet_textures with version 5
+1:12:55.879 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.apt_library with version 19
+1:12:55.911 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.free_global_airports2 with version 3
+1:12:55.942 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.free_dsfs with version 4
+1:12:55.973 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.csl with version 4
+1:12:56.005 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.global_airports2 with version 15
+1:12:56.069 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.global_scenery with version 3
+1:12:56.132 I/APP: Suspending App
+1:12:57.941 I/APP: Resuming App
+1:13:02.807 I/CLOU: Created 14 potential work items for component com.laminarresearch.xplane_10.global_scenery
+1:13:02.869 I/CLOU: Created 2 potential work items for component com.laminarresearch.xplane_10.planet_textures
+1:13:02.869 I/CLOU: Done creating work items. 14 secured and 2 unsecured new items were created.
+1:13:02.869 I/CLOU: Starting authentication...
+1:13:03.126 I/MMO: Failed to connect to mmo-north-america2 (2604:a880:400:d0::1709:6001|48097)
+1:13:03.126 I/MMO: Initiated connection to 104.248.112.118:48082
+1:13:03.520 I/MMO: Test HTTP request succeeded
+1:13:03.716 I/MMO: Connected to mmo-north-america2 (104.248.112.118|48082)
+1:13:03.716 W/APP: Device Type Not Found for machine: iPhone13,4. GPU Bucket: gpu_medium
+1:13:05.157 I/CLOU: Authentication completed with SUCCESS!
+1:13:05.157 I/CLOU: We need to download 10484.949219 bytes and need 10484.949219 for disk storage.
+1:13:05.921 I/CLOU: Download of http://cds.j6b5v6a2.hwcdn.net/planet_textures/+30-010.etc completed with SUCCESS!
+1:13:06.839 I/CLOU: Download of http://cds.j6b5v6a2.hwcdn.net/planet_textures/+30+000.etc completed with SUCCESS!
+1:13:07.690 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30+000/+39+004.dsf?ttl=1608591094&sig=0dbe437313d2f549950ac8a6cc068dae completed with SUCCESS!
+1:13:08.805 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30+000/+39+003.dsf?ttl=1608591094&sig=76bbbeb656ea068342bdbf5690a0969b completed with SUCCESS!
+1:13:09.657 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30+000/+39+002.dsf?ttl=1608591094&sig=02334261489bd470e6c86c6677fdcc2c completed with SUCCESS!
+1:13:10.182 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30+000/+39+001.dsf?ttl=1608591094&sig=3315f5f85128409f131031c4f524d66b completed with SUCCESS!
+1:13:10.575 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30+000/+39+000.dsf?ttl=1608591094&sig=f35f815b55d2b112fc1bb56cf021fbc8 completed with SUCCESS!
+1:13:11.233 W/NET: UPnP init failed: no UPnP-capable gateway found
+1:13:11.461 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30+000/+38+001.dsf?ttl=1608591094&sig=55c2423b58cb6b7a140c2035b8800bf8 completed with SUCCESS!
+1:13:12.051 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+30+000/+38+000.dsf?ttl=1608591094&sig=8100a81b22cf2a8cc0f6236879674537 completed with SUCCESS!
+1:13:12.542 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+40+000/+41+003.dsf?ttl=1608591094&sig=cc39996d7268464ab4cc626ccb5e9bc2 completed with SUCCESS!
+1:13:13.820 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+40+000/+41+002.dsf?ttl=1608591094&sig=c088b5a09e2a1168d87bf00ddc2f3e1b completed with SUCCESS!
+1:13:16.079 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+40+000/+41+001.dsf?ttl=1608591094&sig=f102a2dd4bdbe6ba11f88e05ec59e585 completed with SUCCESS!
+1:13:17.388 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+40+000/+41+000.dsf?ttl=1608591094&sig=9480592bcd3168cd860621f58d7924b5 completed with SUCCESS!
+1:13:18.007 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+40+000/+40+004.dsf?ttl=1608591094&sig=0a731b9b6767d3128fc71be20d7703f5 completed with SUCCESS!
+1:13:18.596 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+40+000/+40+003.dsf?ttl=1608591094&sig=447950bd8485fcb993329ddcc4e3a1f4 completed with SUCCESS!
+1:13:19.252 W/NET: UPnP init failed: no UPnP-capable gateway found
+1:13:19.480 I/CLOU: Download of http://cds.p8q9g5z4.hwcdn.net/global_scenery/Earth%20nav%20data/+40+000/+40+000.dsf?ttl=1608591094&sig=5614557965e6da45f63a1486b1c6151d completed with SUCCESS!
+1:13:19.514 I/MAST: Load Region/Aircraft and Reset...begin
+1:13:19.514 W/NET: UPnP init failed: no UPnP-capable gateway found
+1:13:19.514 W/NET: UPnP init failed: no UPnP-capable gateway found
+1:13:19.514 I/MMO: UPnP result: Could not connect to a network gateway with UPnP support. You may not have internet access at all.
+1:13:19.514 I/MAST: Load Region/Aircraft and Reset...done
+1:13:35.508 W/SCN: Missing object objects/com_2_Tanks.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Fueling_Stations/; replacing with blank
+1:13:35.603 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_chaser_3_slow[0] which was not found.
+1:13:35.603 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_chaser_3_slow[1] which was not found.
+1:13:35.603 E/DREF: WARNING: art asset uses sim/graphics/animation/lights_fx_chaser_3_slow[2] which was not found.
+1:13:35.665 W/SCN: Missing object lib/airport/Common_Elements/Fence_Facades/com_sec_gate1.obj from package /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/airport scenery/Common_Elements/Fence_Facades/; replacing with blank
+1:13:35.681 E/SCN: Failed to find resource 'lib/g10/decals/apt_concrete_tiles1.dcl', referenced from file '/var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/apt_library/1000 autogen/global_objects/constructions/'.
+1:13:35.900 I/SCN: DSF load time: 563567 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30+000/+39+002.dsf (0 tris, 0 skipped for 0.0 m^2)
+1:13:36.493 I/SCN: DSF load time: 605213 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30+000/+39+002.dsf (30664 tris, 0 skipped for 0.0 m^2)
+1:13:36.556 I/SCN: DSF load time: 378 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+30+000/+39+003.dsf (0 tris, 0 skipped for 0.0 m^2)
+1:13:36.713 I/SCN: DSF load time: 180705 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+30+000/+39+003.dsf (26801 tris, 0 skipped for 0.0 m^2)
+1:13:36.807 I/SCN: DSF load time: 1073 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_airports/Earth nav data/+40+000/+40+003.dsf (0 tris, 0 skipped for 0.0 m^2)
+1:13:36.839 I/SCN: DSF load time: 44168 for file /var/mobile/Containers/Data/Application/9B78F8C2-2A7E-4C0E-B9E9-D3B76C9AD0C9/Library/Caches/XPlaneDownloads/global_scenery/Earth nav data/+40+000/+40+003.dsf (3213 tris, 0 skipped for 0.0 m^2)
+1:13:37.419 I/FLT: Init dat_p0 type:loc_ifr apt:LEPA rwy:H3
+1:13:37.419 I/REPLAY: Registered birth event for flt 0, entity id: 5620
+1:13:37.419 I/REPLAY: Creating flt entity with entity id 5620 and p_index 0
+1:13:37.744 I/MIS: Handling Event: mission_event_dsf_loaded
+1:13:37.744 I/MIS: Changing State From: mission_state_loading to mission_state_loaded_ready
+1:13:37.744 I/STOR: Handling Event: store_event_inventory_started
+1:13:37.744 I/STOR: Ignoring inventory request
+1:13:37.744 I/MIS: Handling Event: mission_event_pregame_beginning
+1:13:37.744 I/MIS: Changing State From: mission_state_loaded_ready to mission_state_running_pregame
+1:13:37.744 I/MIS: Handling Event: mission_event_pregame_ending
+1:13:37.744 I/MIS: Changing State From: mission_state_running_pregame to mission_state_pregame_done
+1:13:37.744 I/MIS: Handling Event: mission_event_mission_start
+1:13:37.744 I/MIS: Changing State From: mission_state_pregame_done to mission_state_running_mission
+1:13:40.712 I/MMO: Received remote packet
+1:13:45.902 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:13:55.953 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:14:05.957 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:14:15.960 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:14:25.962 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:14:35.965 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:14:45.967 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:14:55.970 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:15:05.973 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:15:15.975 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:15:25.978 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:15:35.981 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:15:45.984 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:15:55.987 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:16:05.990 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:16:15.993 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:16:25.998 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:16:29.399 I/POPU: Building Popup (0x158be1da0): [END FLIGHT?] Are you sure you wish to end this flight?
+1:16:29.399 I/POPU: Showing Popup (0x158be1da0)
+1:16:29.965 I/POPU: Destroying Active Popup (0x158be1da0)
+1:16:29.965 I/MIS: Handling Event: mission_event_mission_end_user_quit
+1:16:29.965 I/MIS: Changing State From: mission_state_running_mission to mission_state_unloaded
+1:16:29.965 W/APP: Device Type Not Found for machine: iPhone13,4. GPU Bucket: gpu_medium
+1:16:29.965 I/MIS: Ending mission: Multiplayer Freeflight
+1:16:29.965 I/CLOU: Ending Session (SIM_master)...
+1:16:29.965 I/CLOU: Session Ended
+1:16:29.965 I/STOR: Handling Event: store_event_inventory_started
+1:16:29.965 I/STOR: Ignoring inventory request
+1:16:37.072 I/MMO: Initiating MMO connection
+1:16:37.072 I/MMO: Will try the following connections, in order:
+1:16:37.072 I/MMO: 2604:a880:400:d0::1709:6001|48032
+1:16:37.072 I/MMO: 104.248.112.118|48040
+1:16:37.072 I/MMO: 2604:a880:400:d0::1709:6001|48033
+1:16:37.072 I/MMO: 104.248.112.118|48071
+1:16:37.072 I/MMO: Initiated connection to 2604:a880:400:d0::1709:6001:48032
+1:16:37.072 I/MIS: Handling Event: mission_event_load
+1:16:37.072 I/MIS: Changing State From: mission_state_unloaded to mission_state_loading
+1:16:37.072 I/MIS: Starting mission: Multiplayer Freeflight
+1:16:37.072 W/APP: Device Type Not Found for machine: iPhone13,4. GPU Bucket: gpu_medium
+1:16:37.072 I/FLT: Init dat_p0 type:loc_ifr apt:LEPA rwy:H3
+1:16:37.072 I/MAST: Load Region/Aircraft and Reset...starting resource download
+1:16:37.072 I/CLOU: Start Session (SIM_master) with components: com.laminarresearch.xplane_10.global_scenery, com.laminarresearch.xplane_10.global_airports2, com.laminarresearch.xplane_10.csl, com.laminarresearch.xplane_10.free_dsfs, com.laminarresearch.xplane_10.free_global_airports2, com.laminarresearch.xplane_10.apt_library, com.laminarresearch.xplane_10.planet_textures, com.laminarresearch.xplane_10.map_data_hi_res, com.laminarresearch.xplane_10.b738 and a start location of: 39.645000 2.923761
+1:16:37.072 I/CLOU: Downloading our server_list.txt
+1:16:37.866 I/CLOU: Download of https://lookup2.x-plane.com/_lookup_mobile_/server_list_1120.txt completed with SUCCESS!
+1:16:37.866 I/CLOU: Using DOWNLOADED server_list version 1
+1:16:38.581 I/CLOU: Download of https://lookup2.x-plane.com/_lookup_mobile_/component_list_1120.txt completed with SUCCESS!
+1:16:38.581 I/CLOU: Using DOWNLOADED component_list version 79
+1:16:38.628 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.b738 with version 8
+1:16:38.788 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.map_data_hi_res with version 13
+1:16:38.819 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.planet_textures with version 5
+1:16:38.851 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.apt_library with version 19
+1:16:38.882 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.free_global_airports2 with version 3
+1:16:38.913 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.free_dsfs with version 4
+1:16:38.945 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.csl with version 4
+1:16:38.976 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.global_airports2 with version 15
+1:16:39.038 I/CLOU: Parsed manifest com.laminarresearch.xplane_10.global_scenery with version 3
+1:16:45.564 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:16:45.564 I/MAST: Load Region/Aircraft and Reset...begin
+1:16:45.564 I/MAST: Load Region/Aircraft and Reset...done
+1:16:45.666 I/FLT: Init dat_p0 type:loc_ifr apt:LEPA rwy:H3
+1:16:45.666 I/REPLAY: Registered birth event for flt 0, entity id: 5657
+1:16:45.666 I/REPLAY: Creating flt entity with entity id 5657 and p_index 0
+1:16:45.985 I/MIS: Handling Event: mission_event_dsf_loaded
+1:16:45.985 I/MIS: Changing State From: mission_state_loading to mission_state_loaded_ready
+1:16:45.985 I/STOR: Handling Event: store_event_inventory_started
+1:16:45.985 I/STOR: Ignoring inventory request
+1:16:45.985 I/MIS: Handling Event: mission_event_pregame_beginning
+1:16:45.985 I/MIS: Changing State From: mission_state_loaded_ready to mission_state_running_pregame
+1:16:45.985 I/MIS: Handling Event: mission_event_pregame_ending
+1:16:45.985 I/MIS: Changing State From: mission_state_running_pregame to mission_state_pregame_done
+1:16:45.985 I/MIS: Handling Event: mission_event_mission_start
+1:16:45.985 I/MIS: Changing State From: mission_state_pregame_done to mission_state_running_mission
+1:16:46.195 I/MMO: Failed to connect to mmo-north-america2 (2604:a880:400:d0::1709:6001|48032)
+1:16:46.195 I/MMO: Initiated connection to 104.248.112.118:48040
+1:16:46.687 I/MMO: Test HTTP request succeeded
+1:16:47.837 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:16:54.205 W/NET: UPnP init failed: no UPnP-capable gateway found
+1:16:55.306 I/MMO: Failed to connect to mmo-north-america2 (104.248.112.118|48040)
+1:16:55.306 I/MMO: Initiated connection to 2604:a880:400:d0::1709:6001:48033
+1:16:57.873 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:17:02.225 W/NET: UPnP init failed: no UPnP-capable gateway found
+1:17:04.409 I/MMO: Failed to connect to mmo-north-america2 (2604:a880:400:d0::1709:6001|48033)
+1:17:04.409 I/MMO: Initiated connection to 104.248.112.118:48071
+1:17:04.909 I/MMO: Test HTTP request succeeded
+1:17:05.109 I/MMO: Connected to mmo-north-america2 (104.248.112.118|48071)
+1:17:05.109 W/APP: Device Type Not Found for machine: iPhone13,4. GPU Bucket: gpu_medium
+1:17:05.309 I/MMO: Received remote packet
+1:17:07.877 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:17:10.245 W/NET: UPnP init failed: no UPnP-capable gateway found
+1:17:17.880 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:17:18.264 W/NET: UPnP init failed: no UPnP-capable gateway found
+1:17:18.264 I/MMO: UPnP result: Could not connect to a network gateway with UPnP support. You may not have internet access at all.
+1:17:27.883 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:17:37.885 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:17:47.888 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:17:57.891 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:18:07.894 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:18:17.897 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:18:27.901 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:18:37.904 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:18:47.907 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:19:07.928 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:19:17.932 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:19:27.934 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:19:37.938 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:19:47.940 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:19:57.943 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:20:07.945 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:20:17.948 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:20:27.950 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:20:37.953 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:20:47.956 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:20:57.959 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:21:07.962 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:21:17.966 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:21:27.969 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:21:37.972 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:21:47.991 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:21:57.994 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:22:08.000 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:22:18.005 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:22:28.011 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:22:38.015 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:22:44.167 I/MMO: Set normal fly-in airport LEPA
+1:22:48.019 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:22:50.503 I/APP: Suspending App
+1:22:52.336 I/APP: Resuming App
+1:22:58.022 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:23:08.026 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:23:18.030 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:23:28.034 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:23:38.039 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:23:48.042 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:23:58.047 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:24:08.051 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:24:18.054 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:24:28.058 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:24:38.062 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:24:48.065 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:24:58.068 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:25:08.074 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:25:18.076 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:25:28.079 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:25:38.081 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:25:48.084 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:25:58.088 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:26:08.091 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:26:18.094 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:26:28.098 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:26:35.800 I/APP: Suspending App
+1:26:36.133 I/APP: Resuming App
+1:26:36.801 I/APP: Suspending App
+1:26:37.183 I/APP: Resuming App
+1:26:38.101 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:26:48.105 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:26:58.125 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:27:08.129 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:27:18.133 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:27:28.136 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:27:38.139 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:27:58.163 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:28:08.166 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:28:18.169 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:28:28.173 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:28:38.177 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:28:48.179 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:28:58.183 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:29:08.186 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:29:18.190 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:29:28.194 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:29:38.197 I/CLOU: Done creating work items. 0 secured and 0 unsecured new items were created.
+1:29:44.198 I/APP: Suspending App
+1:29:45.015 I/OGL: Framebuffer rebuilding.
+1:29:45.015 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+1:29:45.015 I/OGL: Framebuffer rebuilding.
+1:29:45.015 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+1:29:45.015 I/OGL: Framebuffer rebuilding.
+1:29:45.015 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+1:29:45.015 I/OGL: Framebuffer rebuilding.
+1:29:45.015 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:13:31.608 I/APP: Resuming App
+2:13:32.092 I/APP: Audio Routing Change. Input: MicrophoneBuiltIn Output: Speaker
+2:13:32.135 I/APP: Audio Routing Change. Input: MicrophoneBuiltIn Output: Speaker
+2:13:32.135 I/APP: Audio Routing Change. Input: MicrophoneBuiltIn Output: Speaker
+2:13:32.408 I/MMO: Set normal fly-in airport LEPA
+2:13:36.543 I/POPU: Building Popup (0x107f2d8f0): [CHECKING NAV DATA] Please wait while the latest nav data is downloaded...
+2:13:36.543 I/POPU: Showing Popup (0x107f2d8f0)
+2:13:38.743 E/NAV: Unexpected response from Navigraph. Please contact support.. JSON response was: []
+2:13:39.460 I/POPU: Destroying Active Popup (0x107f2d8f0)
+2:13:41.161 I/POPU: Building Popup (0x107a6e8b0): [AUTHENTICATING WITH NAVIGRAPH] Please wait while we authenticate with Navigraph...
+2:13:41.161 I/POPU: Showing Popup (0x107a6e8b0)
+2:13:41.928 I/APP: Suspending App
+2:13:43.077 I/APP: Resuming App
+2:13:47.671 E/NET: Download failed with http error: 404 for URL http://104.248.112.118:4000/api/v1/callsign/heartbeat
+2:13:47.671 E/HTTP: Curl Error Buffer: 
+2:13:47.671 E/HTTP: HTTP Headers:
+2:13:47.671 E/HTTP: 	HTTP/1.1 404 Not Found
+2:13:47.671 E/HTTP: 	access-control-allow-origin: *
+2:13:47.671 E/HTTP: 	cache-control: max-age=0, private, must-revalidate
+2:13:47.671 E/HTTP: 	content-length: 29
+2:13:47.671 E/HTTP: 	content-type: application/json; charset=utf-8
+2:13:47.671 E/HTTP: 	date: Mon, 21 Dec 2020 22:52:16 GMT
+2:13:47.671 E/HTTP: 	server: Cowboy
+2:13:47.671 E/HTTP: 	
+2:13:48.564 I/APP: Suspending App
+2:13:49.862 I/APP: Resuming App
+2:13:53.130 I/POPU: Destroying Active Popup (0x107a6e8b0)
+2:13:55.379 I/STOR: Handling Event: store_event_inventory_started
+2:13:55.379 I/STOR: Ignoring inventory request
+2:13:57.165 I/APP: Suspending App
+2:13:57.980 I/OGL: Framebuffer rebuilding.
+2:13:57.980 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:13:57.980 I/OGL: Framebuffer rebuilding.
+2:13:57.980 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:13:57.980 I/OGL: Framebuffer rebuilding.
+2:13:57.980 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:13:57.980 I/OGL: Framebuffer rebuilding.
+2:13:57.980 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:14:12.698 I/APP: Resuming App
+2:14:13.031 I/APP: Audio Routing Change. Input: MicrophoneBuiltIn Output: Speaker
+2:14:13.059 I/APP: Audio Routing Change. Input: MicrophoneBuiltIn Output: Speaker
+2:14:21.416 I/APP: Suspending App
+2:14:22.232 I/OGL: Framebuffer rebuilding.
+2:14:22.232 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:14:22.232 I/OGL: Framebuffer rebuilding.
+2:14:22.232 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:14:22.232 I/OGL: Framebuffer rebuilding.
+2:14:22.232 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:14:22.232 I/OGL: Framebuffer rebuilding.
+2:14:22.232 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:15:18.107 I/APP: Resuming App
+2:15:18.473 E/NET: Download failed with http error: 404 for URL http://104.248.112.118:4000/api/v1/callsign/heartbeat
+2:15:18.473 E/HTTP: Curl Error Buffer: 
+2:15:18.473 E/HTTP: HTTP Headers:
+2:15:18.473 E/HTTP: 	HTTP/1.1 404 Not Found
+2:15:18.473 E/HTTP: 	access-control-allow-origin: *
+2:15:18.473 E/HTTP: 	cache-control: max-age=0, private, must-revalidate
+2:15:18.473 E/HTTP: 	content-length: 29
+2:15:18.473 E/HTTP: 	content-type: application/json; charset=utf-8
+2:15:18.473 E/HTTP: 	date: Mon, 21 Dec 2020 22:53:48 GMT
+2:15:18.473 E/HTTP: 	server: Cowboy
+2:15:18.473 E/HTTP: 	
+2:15:20.556 I/APP: Suspending App
+2:15:21.389 I/OGL: Framebuffer rebuilding.
+2:15:21.389 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:15:21.389 I/OGL: Framebuffer rebuilding.
+2:15:21.389 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:15:21.389 I/OGL: Framebuffer rebuilding.
+2:15:21.389 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:15:21.389 I/OGL: Framebuffer rebuilding.
+2:15:21.389 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:15:27.374 I/APP: Resuming App
+2:15:27.775 I/APP: Audio Routing Change. Input: MicrophoneBuiltIn Output: Speaker
+2:15:27.775 I/APP: Audio Routing Change. Input: MicrophoneBuiltIn Output: Speaker
+2:15:27.991 I/APP: Suspending App
+2:15:28.808 I/OGL: Framebuffer rebuilding.
+2:15:28.808 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:15:28.808 I/OGL: Framebuffer rebuilding.
+2:15:28.808 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:15:28.808 I/OGL: Framebuffer rebuilding.
+2:15:28.808 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:15:28.808 I/OGL: Framebuffer rebuilding.
+2:15:28.808 I/MAIN: Resolution: 1852 x 856 mult: 5.00 ret_rat: 2.00
+2:15:57.862 I/APP: Resuming App
+2:15:58.195 I/APP: Audio Routing Change. Input: MicrophoneBuiltIn Output: Speaker
+2:15:58.219 I/APP: Audio Routing Change. Input: MicrophoneBuiltIn Output: Speaker
